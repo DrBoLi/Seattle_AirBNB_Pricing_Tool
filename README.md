@@ -11,3 +11,4 @@ For this analysis, I analyzed the data from the Airbnb website in 2016. These da
 3.	How should you price your listing based on location and room type?
 
 For more information, check out my Medium post here:
+https://drboli.medium.com/thinking-about-listing-your-airbnb-in-seattle-check-out-this-pricing-tool-first-3f42f42f33ec
