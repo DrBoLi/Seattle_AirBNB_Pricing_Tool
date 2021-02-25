@@ -3,15 +3,15 @@
 ## Table of Contents
 1. [Installation](#Installation)
 2. [Project Motivation](#Project Motivation)
-3. File Descriptions
-4. Results
-5. Licensing, Authors, and Acknowledgements
+3. [File Descriptions](#File Description)
+4. [Results](#Results)
+5. [Licensing, Authors, and Acknowledgements](#Licensing, Authors, and Acknowledgements)
 
-## #Installation
+## Installation
 
 There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python. The code should run with no issues using Python versions 3.*.
 
-## #Project Motivation
+## Project Motivation
 
 In this project, I analyzed the listing prices in different neighborhoods in Seattle to provide an overview of listing prices and total listing during the year. To help potential Airbnb host to price their listing, I developed this prediction tool to estimate your listing price based on your location and room type. 
 
